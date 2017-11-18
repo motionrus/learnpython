@@ -1,2 +1,3 @@
 ignore_file.txt
 not_me_pleaase.html
+*.pyc
